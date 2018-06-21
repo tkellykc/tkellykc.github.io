@@ -4,6 +4,7 @@ body	 { background-color: #FFFFFF;
 head	 { color: #F0F0F0;
 	   background: url(fishcreeklogo.gif);
 	   background-repeat: no-repeat;
+	   background-position: center;
 	   text-align: center; }
 h1	 { background-color: #003366;
 	   color: #F0F0F0;
