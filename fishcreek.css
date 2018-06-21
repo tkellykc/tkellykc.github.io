@@ -9,7 +9,8 @@ h1	 { background-color: #003366;
 	   font-family: Georgia, Times;
 	   line-height: 250%;
 	   text-align: center;
-	   text-indent: 1em; }
+	   text-indent: 1em;
+           margin-bottom: 0; }
 nav	 { font-weight: bold;
 	   background-color: #5280C5;
 	   padding: 5px;
