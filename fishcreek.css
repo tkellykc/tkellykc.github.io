@@ -2,7 +2,7 @@ body	 { background-color: #FFFFFF;
 	   color: #003366;
 	   font-family: Verdana, Arial; }
 head	 { color: #F0F0F0;
-	   background: url(fishcreeklogo.gif) no-repeat center;
+	   background: url(fishcreeklogo.gif);
 	   text-align: center; }
 h1	 { background-color: #003366;
 	   color: #F0F0F0;
@@ -23,7 +23,6 @@ dt	 { color: #5280C5;
 	   font-weight: bold;
 	   font-family: Georgia, Times; }
 footer nav { background-color: #F0F0F0;
-           font-size: .70em;
            text-align: center; }
 footer	 { font-size: .70em;
 	   text-align: center;
