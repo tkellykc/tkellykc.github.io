@@ -3,7 +3,7 @@ body	 { background-color: #FFFFFF;
 	   font-family: Verdana, Arial; }
 head	 { color: #F0F0F0;
 	   background: url(fishcreeklogo.gif);
-	   background: no-repeat;
+	   background-repeat: no-repeat;
 	   text-align: center; }
 h1	 { background-color: #003366;
 	   color: #F0F0F0;
