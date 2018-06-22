@@ -25,12 +25,12 @@ dt	 { color: #5280C5;
        text-shadow: 1px 1px 1px #667;
 	   font-weight: bold;
        font-family: Georgia, Times; }
-footer { nav background-color: #F0F0F0;
-       font-weight: bold; }
 footer	 { background-color: #AEC3E3;
        font-size: .70em;
        text-align: center;
-	   font-style: italic; }
+	   font-style: italic; 
+       nav backgound-color: #AEC3E3;
+       font-weight: bold; /nav}
 #wrapper { width: 80%;
 	   margin-right: auto;
 	   margin-left: auto;
