@@ -31,6 +31,8 @@ footer	 { background-color: #AEC3E3;
 	   font-style: italic; 
        nav background-color: #F0F0F0;
 	       font-weight: bold; /nav }
+footernav { background-color: #F0F0F0;
+	text-align: center; }
 #wrapper { width: 80%;
 	   margin-right: auto;
 	   margin-left: auto;
