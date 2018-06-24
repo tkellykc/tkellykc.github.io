@@ -11,7 +11,8 @@ h1	 { background-color: #003366;
 	   line-height: 250%;
 	   text-indent: 1em;
 	   margin-bottom: 0; }
-nav	 { font-weight: bold;
+nav	 { background-color: #5280C5;
+       font-weight: bold;
        text-align: center;
        color: #5280C5;
        padding: 5px; }
