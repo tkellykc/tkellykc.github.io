@@ -28,9 +28,7 @@ dt	 { color: #5280C5;
 footer	 { background-color: #AEC3E3;
        font-size: .70em;
        text-align: center;
-	   font-style: italic; 
-       nav background-color: #F0F0F0;
-	       font-weight: bold; /nav }
+	   font-style: italic; }
 footernav { background-color: #F0F0F0;
 	text-align: center;
         font-size: .70em;
