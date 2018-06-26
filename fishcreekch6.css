@@ -9,7 +9,7 @@ header h1	 { background-color: #000066;
     background-position: center;
     text-align: center;
     color: #F0F0F0;
-    text-shadow: #CCCCCC;
+    text-shadow: 2px 2px 2px #CCCCCC;
     font-size: 3em;
     padding: 0.2em;
     line-height: 250%;
