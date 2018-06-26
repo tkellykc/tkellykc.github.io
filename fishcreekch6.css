@@ -42,6 +42,7 @@ dt	 { color: #5280C5;
     font-family: Georgia, Times; }
 footer	 { background-color: #AEC3E3;
     font-size: .70em;
+    color: #000000;
     text-align: center;
     font-style: italic;
     padding: 1em;
