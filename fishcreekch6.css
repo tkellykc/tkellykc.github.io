@@ -9,10 +9,9 @@ h1	 { background-color: #000066;
     background-position: center;
     text-align: center;
     color: #F0F0F0;
-    font-size: 3em;
-    font-weight: bold;
-    padding: 0.2em;
     text-shadow: #CCCCCC;
+    font-size: 3em;
+    padding: 0.2em;
     line-height: 250%;
     text-indent: 1em;
     margin-bottom: 0; }
