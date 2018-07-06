@@ -37,7 +37,7 @@ dt	 { color: #5280C5;
     font-family: Georgia, Times; }
 table   { margin: 1em;
     border: 2px solid #000066 
-    border-collapse: collapse; }
+    border-collapse; }
 td, th { padding: 0.5em;
     border: 1px #000066; }
 .category { color: #5380C5;
