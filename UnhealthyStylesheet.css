@@ -2,7 +2,7 @@
 body	 { background-color: #FFFFFF;
     color: #000000;
     font-family: Verdana, Times, Arial; }
-header h1	 { background-color: #000066;
+header h1	 { background-color: #FF760B;
     background-image: url(UnhealthyFood.jpeg);
     background-repeat: no-repeat;
     background-position: center;
@@ -21,7 +21,7 @@ nav	 { float: left;
 nav ul { list-style-type: none; }
 nav a { text-decoration: none;
         padding-right: 10px; }
-nav a:link { color: #000066;}
+nav a:link { color: #FF760B;}
 nav a:visited { color: #5280C5; }
 nav a:hover { color: #3262A3; }
 main { margin-left: 180px;
@@ -36,9 +36,9 @@ dt	 { color: #5280C5;
     font-family: Georgia, Times; }
 table   { border-collapse: collapse;
     margin: 1em;
-    border: 2px solid #000066; }
+    border: 2px solid #000000; }
 td, th { padding: 0.5em;
-    border: 1px solid #000066; }
+    border: 1px solid #000000; }
 label   { float: left;
     display: block;
     text-align: right;
