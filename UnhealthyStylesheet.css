@@ -32,7 +32,7 @@ main { margin-left: 180px;
     background-color: #FFFFFF;
     border: 1px solid #AEC3E3; }
 div { text-align: center; }
-dt	 { color: #5280C5;
+dt	 { color: #FF760B;
     font-size: 1.1em;
     font-weight: bold;
     font-family: Georgia, Times; }
@@ -49,10 +49,10 @@ label   { float: left;
 input, textarea { display: block;
     margin-bottom: 1em; }
 #mySubmit {margin-left: 9.5em; }
-.category { color: #5380C5;
+.category { color: #FF760B;
     font-weight: bold;
     font-family: Georgia, Arial, Times; }
-footer	 { background-color: #AEC3E3;
+footer	 { background-color: #FF760B;
     font-size: .70em;
     color: #000000;
     text-align: center;
