@@ -50,7 +50,7 @@ input, textarea { display: block;
     font-weight: bold;
     font-family: Georgia, Times; }
 footer	 { background-color: #AEC3E3;
-    font-size: .70em;
+    font-size: 1em;
     color: #000000;
     text-align: center;
     padding: 1em; }
