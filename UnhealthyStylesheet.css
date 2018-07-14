@@ -16,13 +16,13 @@ header h1	 { background-color: #FF760B;
 nav	 { float: left;
     width: 180px;
     font-weight: bold;
-    color: #5280C5;
+    color: #5060FF;
     padding: 5px; }
 nav ul { list-style-type: none; }
 nav a { text-decoration: none;
         padding-right: 10px; }
 nav a:link { color: #FF760B;}
-nav a:visited { color: #5280C5; }
+nav a:visited { color: #FFB377; }
 nav a:hover { color: #3262A3; }
 main { margin-left: 180px;
     margin-top: 0;
