@@ -48,9 +48,8 @@ input, textarea { display: block;
     margin-bottom: 1em; }
 #mySubmit {margin-left: 9.5em; }
 .category { color: #5380C5;
-    text-shadow: 1px 1px 1px #667;
     font-weight: bold;
-    font-family: Georgia, Times; }
+    font-family: Georgia, Arial, Times; }
 footer	 { background-color: #AEC3E3;
     font-size: .70em;
     color: #000000;
@@ -92,7 +91,7 @@ header, nav, main, footer {display: block; }
     footer { margin: 0; }
 }
 @media only screen and (max-width: 768px) {
-    header { background-image: url(lilfish.gif); }
+    header { background-image: url(UnhealthyFood.jpg); }
     h1     { font-size: 1.5em;
              line-height: 120%; }
     nav a  { display: block;
