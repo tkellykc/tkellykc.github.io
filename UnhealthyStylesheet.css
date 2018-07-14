@@ -30,6 +30,7 @@ main { margin-left: 180px;
     padding-right: 2em;
     background-color: #FFFFFF;
     border: 1px solid #AEC3E3; }
+div { text-align: center; }
 dt	 { color: #5280C5;
     font-size: 1.1em;
     font-weight: bold;
