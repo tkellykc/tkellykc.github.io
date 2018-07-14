@@ -14,6 +14,7 @@ header h1	 { background-color: #FF760B;
     line-height: 270%;
     margin-bottom: 0; }
 nav	 { float: left;
+    text-align: center;
     width: 180px;
     font-weight: bold;
     color: #3262A3;
