@@ -22,12 +22,11 @@ nav a { text-decoration: none; }
 nav a:link { color: #FF760B;}
 nav a:visited { color: #FFB377; }
 nav a:hover { color: #FFFFFF; }
-main { margin-left: 180px;
-    margin-top: 0;
+main { margin-top: 0;
     padding-left: 2em;
     padding-right: 2em;
     background-color: #FFFFFF;
-    border: 1px solid #AEC3E3; }
+    border: 1px solid #000000; }
 div { text-align: center; }
 dt	 { color: #FF760B;
     font-size: 1.1em;
