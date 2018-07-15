@@ -31,7 +31,10 @@ main { margin-top: 0;
     background-color: #FFFFFF;
     border: 1px solid #000000; }
 .articleTitle { text-align: center;
-    font-size: 1em; }
+    font-size: 1em;
+    color: #FF760B;
+    font-weight: bold;
+    font-family: Georgia, Arial, Times; }
 .article { text-align: left; }
 .authorBio { font-size: .70em;
     color: #000000;
