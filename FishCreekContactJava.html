@@ -7,8 +7,22 @@
     <link rel="stylesheet" href="fishcreekch9.css">
     <script>
       function validateForm() {
+          if (document.forms[0].myName.value == "" ) {
+              alert("Please enter your name.");
+              return false;
+          }
+          return true;
+      }
+      function validateForm() {
           if (document.forms[0].myEmail.value == "" ) {
               alert("Please enter an e-mail address.");
+              return false;
+          }
+          return true;
+      }
+      function validateForm() {
+          if (document.forms[0].myComments.value == "" ) {
+              alert("Please enter comments.");
               return false;
           }
           return true;
@@ -27,11 +41,11 @@
      <h2>Contact Fish Creek</h2>
      <p>Required information is marked with an asterisk (*).</p>
       <form method="post" action="http://webdevbasics.net/scripts/fishcreek.php" onsubmit="return validateForm();">
-        <label for="myName">Name:</label>
+        <label for="myName">* Name:</label>
         <input type="text" name="myName" id="myName">
         <label for="myEmail">* Email:</label>
         <input type="email" name="myEmail" id="myEmail">
-        <label type="myComments">Comments:</label>
+        <label type="myComments">* Comments:</label>
           <textarea name="myComments" id="myComments" rows="2" cols="20"></textarea>
         <input id="mySubmit" type="submit" value="Send Now">
       </form>
