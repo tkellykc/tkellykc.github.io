@@ -7,22 +7,8 @@
     <link rel="stylesheet" href="fishcreekch9.css">
     <script>
       function validateForm() {
-          if (document.forms[0].myName.value == "" ) {
-              alert("Please enter your name.");
-              return false;
-          }
-          return true;
-      }
-      function validateForm() {
-          if (document.forms[0].myEmail.value == "" ) {
-              alert("Please enter an e-mail address.");
-              return false;
-          }
-          return true;
-      }
-      function validateForm() {
-          if (document.forms[0].myComments.value == "" ) {
-              alert("Please enter comments.");
+          if (document.forms[0].value == "" ) {
+              alert("Please enter the required information.");
               return false;
           }
           return true;
