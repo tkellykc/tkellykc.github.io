@@ -50,10 +50,11 @@ input, textarea { display: block;
     font-family: Georgia, Arial, Times; }
 footer	 { background-color: #FF760B;
     font-size: .70em;
-    color: #000000;
+    color: #FFFFFF;
     text-align: center;
     font-style: italic;
-    padding: 1em; }
+    padding: 1em;
+    border: 1px solid #000000; }
 #wrapper { width: 80%;
     margin-right: auto;
     margin-left: auto;
