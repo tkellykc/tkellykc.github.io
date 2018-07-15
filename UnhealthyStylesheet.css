@@ -29,6 +29,7 @@ main { margin-top: 0;
     padding-right: 2em;
     background-color: #FFFFFF;
     border: 1px solid #000000; }
+main.column { text-align: left;}
 div { text-align: center; }
 dt	 { color: #FF760B;
     font-size: 1.1em;
