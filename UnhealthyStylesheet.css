@@ -25,6 +25,8 @@ nav a:link { color: #FFFFFF;}
 nav a:visited { color: #FFFFFF; }
 nav a:hover { color: #FFFFFF; }
 main { margin-top: 0;
+    margin-left: 180px;
+    margin-right: 180px;
     padding-left: 2em;
     padding-right: 2em;
     background-color: #FFFFFF;
