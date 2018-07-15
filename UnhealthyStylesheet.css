@@ -46,6 +46,7 @@ dt	 { color: #FF760B;
     font-weight: bold;
     font-family: Georgia, Times; }
 table   { border-collapse: collapse;
+    table-align: center;
     margin: 1em;
     border: 2px solid #000000; }
 td, th { padding: 0.5em;
