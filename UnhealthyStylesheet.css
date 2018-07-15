@@ -11,7 +11,7 @@ header h1	 { background-color: #FF760B;
     text-shadow: 2px 2px 2px #000000;
     font-size: 4em;
     padding: 0.2em;
-    line-height: 270%;
+    line-height: 250%;
     margin-bottom: 0; }
 nav	 { background-color: #FF760B;
     text-align: center;
@@ -31,7 +31,7 @@ main { margin-top: 0;
     background-color: #FFFFFF;
     border: 1px solid #000000; }
 .article { text-align: left; }
-.authorBio { font-size: .07em;
+.authorBio { font-size: .70em;
     color: #000000;
     text-align: left;
     fot-style: italic; }
