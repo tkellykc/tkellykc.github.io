@@ -13,8 +13,7 @@ header h1	 { background-color: #FF760B;
     padding: 0.2em;
     line-height: 270%;
     margin-bottom: 0; }
-nav	 { float: left;
-    text-align: center;
+nav	 { text-align: center;
     width: 180px;
     font-weight: bold;
     color: #FF760B;
