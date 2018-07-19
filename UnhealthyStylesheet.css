@@ -35,7 +35,8 @@ main { margin-top: 0;
     color: #FF760B;
     font-weight: bold;
     font-family: Georgia, Arial, Times; }
-.article { text-align: left; }
+.article { text-align: left;
+    text-indent: 5em; }
 .authorBio { font-size: 1em;
     color: #000000;
     text-align: left;
