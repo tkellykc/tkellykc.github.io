@@ -5,6 +5,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial scale=1.0">
     <link rel="stylesheet" href="UnhealthyStylesheet.css">
+    <script>
+      function validateForm() {
+          if (document.forms[0].myEmail.value == "" ) {
+              alert("Please enter your email address.");
+              return false;
+          }
+          return true;
+      }
+    </script>
   </head>
   <body>
     <div id="wrapper">
@@ -19,9 +28,9 @@
     </nav>
    <main>
      <p>We would love to hear from you! Please submit any questions, comments or testimonials below!</p>
-     <p>Required fields are marked with an asterisk (*).</p>
+     <p><i>Valid Email address is REQUIRED.</p>
      <div class="form">
-      <form method="post" action="http://www.markmurtha.com/csis128/readform.asp" name="sign_up" id="sign_up">
+      <form method="post" action="http://www.markmurtha.com/csis128/readform.asp" name="sign_up" id="sign_up" onsubmit="return validateForm();">
         <label for="myName">* Name:</label>
         <input type="text" name="myName" id="myName" required="required">
         <br>
