@@ -63,7 +63,8 @@ label   { display: block;
     padding-right: 1em; }
 input, textarea { display: block;
     margin-bottom: 1em; }
-#mySubmit {margin-left: 9.5em; }
+#mySubmit {margin-left: auto;
+    margin-right: auto; }
 .category { color: #FF760B;
     font-weight: bold;
     font-family: Georgia, Arial, Times; }
