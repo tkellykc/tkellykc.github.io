@@ -59,6 +59,7 @@ table.center { margin-left: auto;
 td, th { padding: 0.5em;
     border: 1px solid #000000; }
 label   { display: block;
+    color: #FF760B;
     width: 8em;
     padding-right: 1em;
     margin-left: auto;
