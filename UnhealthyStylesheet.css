@@ -41,6 +41,12 @@ main { margin-top: 0;
     text-align: left;
     font-style: italic; }
 div { text-align: center; }
+div.form { display: block;
+    text-align: center; }
+form { display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left; }
 dt	 { color: #FF760B;
     font-size: 1.1em;
     font-weight: bold;
